@@ -3,7 +3,7 @@
 Este projeto é um **simulador de caixa eletrônico** desenvolvido em **Node.js puro**, sem frameworks adicionais. Ele permite simular operações básicas de um caixa eletrônico, como consulta de saldo, saque e depósito, em um ambiente de linha de comando.
 
 ## Funcionalidades
-
+- Criar conta 
 - Consultar saldo da conta
 - Realizar saques
 - Realizar depósitos
