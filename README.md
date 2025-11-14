@@ -11,5 +11,5 @@ Este projeto é um **simulador de caixa eletrônico** desenvolvido em **Node.js 
 
 ## Pré-requisitos
 
-- [Node.js](https://nodejs.org/) instalado (versão 14 ou superior)
-- Terminal ou prompt de comando para executar o projeto
+- [Node.js](https://nodejs.org/) instalado (versão 14 ou superior).
+- Terminal ou prompt de comando para executar o projeto.
